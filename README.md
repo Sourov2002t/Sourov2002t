@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in *Data Analysis*, *Research*
   
-- 🌱 I’m currently learning *Python*, *Javascript*
+- 🌱 I’m currently learning *Python*, *Javascript*,*Advance Html & CSS*," Basic JavaServlet"
   
 - 💞️ I’m looking to collaborate on *Research Paper*
   
