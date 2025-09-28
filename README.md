@@ -1,61 +1,50 @@
 <div align="center">
 
-<img src="[https://i.imgur.com/yGmzQ1V.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Ddata%2Banalytics%2Bbackground&psig=AOvVaw003URMC-wdoGIMehWky_YH&ust=1759136875951000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCbmdeN-48DFQAAAAAdAAAAABAE)" alt="Data Analyst Themed Banner" width="100%"/>
+# Sourov Kumar Nandi
+### Data Analyst | Researcher | Gamer
 
-# Hi 👋, I'm Sourov Kumar Nandi
+A data-driven professional specializing in extracting actionable insights through statistical analysis and compelling visualization.
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=500&color=007ACC&center=true&vCenter=true&width=435&lines=Data+Analyst;Researcher;Passionate+Gamer">
-</a>
-
-<br>
-
-**A data-driven professional specializing in extracting actionable insights through statistical analysis and compelling visualization.**
-
+<a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sourovkumar54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
 ---
 
-### 🚀 My Featured Projects
+### 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Project Title 1: Customer Churn Prediction</h3>
-<div align="center">
-<p>A machine learning model to predict customer churn for a telecom company, helping to identify at-risk customers and improve retention strategies.</p>
-<p>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-</p>
-<a href="https://github.com/Sourov2002t/Your-Repo-Name" target="_blank">
-<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Project Title 2: Sales Dashboard</h3>
-<div align="center">
-<p>An interactive dashboard built to visualize sales data, track KPIs, and identify regional performance trends for a retail business.</p>
-<p>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-</p>
-<br>
-<a href="https://github.com/Sourov2002t/Your-Repo-Name" target="_blank">
-<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
-</td>
-</tr>
-</table>
+Here are some of the key projects I've worked on.
+
+<details>
+<summary><strong>Project 1: Customer Churn Prediction Model</strong></summary>
+
+> Analyzed customer data to build a machine learning model that predicts churn, enabling proactive retention strategies for a telecom business. The model achieved an accuracy of 88% on the test dataset.
+>
+> **Technologies Used:**
+> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+>
+> <a href="https://github.com/Sourov2002t/Your-Repo-Name" target="_blank"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</details>
+
+<details>
+<summary><strong>Project 2: Interactive Sales Performance Dashboard</strong></summary>
+
+> Designed and developed an interactive dashboard to visualize key sales metrics and track KPIs across different regions, providing actionable insights to the management team.
+>
+> **Technologies Used:**
+> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+>
+> <a href="https://github.com/Sourov2002t/Your-Repo-Name" target="_blank"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</details>
 
 ---
 
-### 🛠️ My Professional Toolkit
-
-Here's a breakdown of the technologies I use. I'm always eager to learn and adapt to new tools.
+### 🛠️ Professional Toolkit
 
 <table>
   <tr>
@@ -87,26 +76,17 @@ Here's a breakdown of the technologies I use. I'm always eager to learn and adap
 
 ---
 
-### 📊 My GitHub Activity
+### 📊 GitHub Activity
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Sourov2002t&show_icons=true&locale=en&theme=tokyonight" alt="Sourov Kumar Nandi's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sourov2002t&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sourov Kumar Nandi's Top Languages" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourov2002t&show_icons=true&locale=en&theme=tokyonight" alt="Sourov Kumar Nandi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sourov2002t&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sourov Kumar Nandi's Top Languages" />
+</div>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Get In Touch
 
-I'm currently looking for new opportunities and open to collaboration on research papers. Feel free to connect with me!
+I'm always open to discussing new projects, research collaborations, or opportunities in data analytics.
 
-<p align="center">
-    <a href="mailto:sourovkumar54@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/your-linkedin-username/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</p>
+**sourovnandi11@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/sourov-kumar-nandi/)**
