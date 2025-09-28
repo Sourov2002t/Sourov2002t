@@ -12,7 +12,7 @@
 
 ---
 
-## <div align="center">🚀 <span style="color: #FF6B6B;">About Me</span></div>
+## <div align="center">🚀 <span style="color: #FF6B6B; font-weight: bold; font-size: 24px;">About Me</span> 🚀</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science" width="400"/>
@@ -28,22 +28,22 @@ I'm a **Computer Science Engineering student** at **Chandigarh University**, pas
 
 ---
 
-## <div align="center">🛠️ <span style="color: #9C27B0;">Skills & Tools</span></div>
+## <div align="center">🛠️ <span style="color: #9C27B0; font-weight: bold; font-size: 24px;">Skills & Tools</span> 🛠️</div>
 
-**Programming & Database:**
+**<span style="color: #FF5722; font-weight: bold;">Programming & Database:</span>**
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Data Analysis:**
+**<span style="color: #2196F3; font-weight: bold;">Data Analysis:</span>**
 <br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Visualization:**
+**<span style="color: #00BCD4; font-weight: bold;">Visualization:</span>**
 <br>
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -52,20 +52,20 @@ I'm a **Computer Science Engineering student** at **Chandigarh University**, pas
 
 ---
 
-## <div align="center">📊 <span style="color: #4CAF50;">Experience Overview</span></div>
+## <div align="center">📊 <span style="color: #4CAF50; font-weight: bold; font-size: 24px;">Experience Overview</span> 📊</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 
-### Core Skills from CV:
+### <span style="color: #8E24AA; font-weight: bold;">Core Skills from CV:</span>
 - 🔧 **Data Cleaning & Transformation** - SQL, Excel, Python (Pandas, NumPy)
 - 📈 **Data Visualization** - Power BI, Advanced DAX Functions  
 - 🤖 **Machine Learning** - Python, Scikit-learn, 96% accuracy models
 - 📊 **Statistical Analysis** - EDA, Hypothesis Testing, Regression
 - 🎯 **Business Intelligence** - KPI Dashboards, Data Storytelling
 
-### Key Projects Experience:
+### <span style="color: #FF6F00; font-weight: bold;">Key Projects Experience:</span>
 - 🏏 **IPL Analytics** - Power BI framework with interactive dashboards
 - ❤️ **Heart Disease Prediction** - ML model with 96% accuracy
 - 📈 **Sales Performance Dashboard** - SQL + Power BI analytics
@@ -73,7 +73,7 @@ I'm a **Computer Science Engineering student** at **Chandigarh University**, pas
 
 ---
 
-## <div align="center">📈 <span style="color: #4CAF50;">GitHub Stats</span></div>
+## <div align="center">📈 <span style="color: #FF9800; font-weight: bold; font-size: 24px;">GitHub Stats</span> 📈</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sourov2002t&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180em"/>
@@ -86,7 +86,7 @@ I'm a **Computer Science Engineering student** at **Chandigarh University**, pas
 
 ---
 
-## <div align="center">📫 <span style="color: #FF4081;">Let's Connect</span></div>
+## <div align="center">📫 <span style="color: #E91E63; font-weight: bold; font-size: 24px;">Let's Connect</span> 📫</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
