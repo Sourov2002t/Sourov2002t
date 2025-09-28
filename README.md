@@ -16,7 +16,7 @@
 ## <div align="center">🚀 <span style="color: #FF6B6B;">About Me</span> 🚀</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science" width="500"/>
 </div>
 
 I'm a **Computer Science Engineering student** at **Chandigarh University**, passionate about transforming raw data into meaningful insights. Currently focused on data analysis, machine learning, and business intelligence solutions.
@@ -65,21 +65,87 @@ I'm a **Computer Science Engineering student** at **Chandigarh University**, pas
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourov2002t&theme=radical" alt="GitHub Streak"/>
 </div>
 
+---
+
+## <div align="center">🎯 <span style="color: #FF6B35;">Current Focus</span> 🎯</div>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourov2002t&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+</div>
+
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════╗
+║  📊 Data Analysis & Visualization            ║
+║  🤖 Machine Learning Models                  ║
+║  📈 Business Intelligence Solutions          ║  
+║  🔍 Research & Publications                  ║
+║  💡 Continuous Learning Journey              ║
+╚══════════════════════════════════════════════╝
+```
+
 </div>
 
 ---
 
-## <div align="center">🏆 <span style="color: #FFD700;">GitHub Achievements</span> 🏆</div>
+## <div align="center">⚡ <span style="color: #FF1744;">Skills in Action</span> ⚡</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sourov2002t&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+</div>
+
+<div align="center">
+
+| 🔥 **Skill** | 🚀 **Proficiency** | 📊 **Experience** |
+|-------------|-------------------|------------------|
+| Python | ████████████████░░ 85% | 2+ years |
+| SQL | ███████████████░░░ 80% | 1.5+ years |
+| Power BI | ██████████████░░░░ 75% | 1+ years |
+| Machine Learning | ████████████░░░░░░ 70% | 1+ years |
+| Data Visualization | ███████████████░░░ 80% | 1.5+ years |
+
 </div>
 
 ---
 
-## <div align="center">📫 <span style="color: #FF4081;">Let's Connect</span> 📫</div>
+## <div align="center">🌟 <span style="color: #9C27B0;">Daily Coding Streak</span> 🌟</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350"/>
+</div>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────┐
+│  🔥 Coding Streak: Building Daily   │
+│  📚 Learning: Never Stops           │
+│  🎯 Goal: Data Science Excellence   │
+│  🚀 Status: Always Growing          │
+└─────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## <div align="center">🎨 <span style="color: #FF5722;">Fun Zone</span> 🎨</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+</div>
+
+<div align="center">
+
+**🎮 When I'm not coding:**
+- 🎯 Playing strategy games
+- 📊 Analyzing sports statistics  
+- 🎵 Listening to coding playlists
+- 🌱 Learning new tech trends
+- 🤝 Collaborating on cool projects
+
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
