@@ -73,18 +73,6 @@ I'm a **Computer Science Engineering student** at **Chandigarh University**, pas
 
 ---
 
-## <div align="center">📈 <span style="color: #FF9800; font-weight: bold; font-size: 24px;">GitHub Stats</span> 📈</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourov2002t&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourov2002t&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourov2002t&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
 
 ## <div align="center">📫 <span style="color: #E91E63; font-weight: bold; font-size: 24px;">Let's Connect</span> 📫</div>
 
