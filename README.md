@@ -121,7 +121,30 @@
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#3498db','primaryTextColor':'#2c3e50','primaryBorderColor':'#2980b9','lineColor':'#34495e','secondaryColor':'#9b59b6','tertiaryColor':'#27ae60','background':'#ecf0f1','mainBkg':'#ffffff','secondBkg':'#bdc3c7','tertiaryBorderColor':'#e74c3c','clusterBkg':'#f8f9fa','clusterBorder':'#3498db','titleColor':'#2c3e50','edgeLabelBackground':'#ffffff','nodeTextColor':'#2c3e50'}}}%%
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'background': '#2c3e50',
+      'mainBkg': '#34495e',
+      'clusterBkg': '#2c3e50',
+
+      'primaryColor': '#3498db',
+      'primaryBorderColor': '#3498db',
+
+      'secondaryColor': '#9b59b6',
+      'tertiaryColor': '#27ae60',
+
+      'primaryTextColor': '#ecf0f1',
+      'nodeTextColor': '#ecf0f1',
+      'titleColor': '#ffffff',
+
+      'lineColor': '#bdc3c7',
+      'tertiaryBorderColor': '#e74c3c',
+      'edgeLabelBackground': '#34495e'
+    }
+  }
+}%%
 mindmap
   root((Data Analysis<br/>Ecosystem))
     Business Intelligence
