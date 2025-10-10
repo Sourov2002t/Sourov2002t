@@ -19,36 +19,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science" width="400"/>
 </div>
 
-**Computer Science Engineering Student** at **Chandigarh University** with a proven track record in data analytics, machine learning, and business intelligence. Specialized in transforming complex datasets into actionable insights through advanced statistical modeling and interactive visualizations.
-
-<div align="center">
-
-| 🎓 Education | 📊 Expertise | 🔬 Research | 💼 Career Goal |
-|:---:|:---:|:---:|:---:|
-| Chandigarh University<br>(2022-2026) | Data Analysis<br>ML & Visualization | Published International<br>Research Papers | Data Analyst<br>Internship |
-
-</div>
-
-### <div align="center">**Why Work With Me?**</div>
-
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Sourov Kumar Nandi"
-        self.role = "Aspiring Data Analyst"
-        self.strengths = [
-            "Data-driven decision making",
-            "Advanced statistical modeling",
-            "Interactive dashboard creation",
-            "End-to-end ML pipeline development"
-        ]
-        self.mindset = "Continuous learning and innovation"
-    
-    def solve_business_problems(self, data):
-        insights = self.analyze(data)
-        visualizations = self.create_dashboards(insights)
-        return self.deliver_actionable_recommendations(visualizations)
-```
+**Computer Science Engineering Student** at **Chandigarh University** (2022-2026) with a proven track record in data analytics, machine learning, and business intelligence. Specialized in transforming complex datasets into actionable insights through advanced statistical modeling and interactive visualizations. Published researcher with multiple papers in international conferences, actively seeking opportunities to apply data science expertise in real-world business scenarios.
 
 ---
 
@@ -151,24 +122,29 @@ class DataAnalyst:
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#FF6B6B','primaryTextColor':'#fff','primaryBorderColor':'#00D4FF','lineColor':'#00D4FF','secondaryColor':'#9C27B0','tertiaryColor':'#4CAF50','background':'#1a1a2e','mainBkg':'#16213e','secondBkg':'#0f3460','tertiaryBorderColor':'#FF6B6B','clusterBkg':'#16213e','clusterBorder':'#00D4FF','titleColor':'#00D4FF','edgeLabelBackground':'#1a1a2e','nodeTextColor':'#ffffff'}}}%%
 mindmap
-  root((Data Analysis))
+  root((Data Analysis<br/>Ecosystem))
     Business Intelligence
       KPI Development
       Performance Metrics
       Strategic Insights
+      Competitive Analysis
     Data Engineering
       ETL Pipelines
       Data Cleaning
-      Automation
+      Workflow Automation
+      Data Quality
     Analytics
       Predictive Modeling
       Statistical Testing
       Trend Analysis
+      Forecasting
     Visualization
       Power BI Dashboards
       Interactive Reports
       Data Storytelling
+      Real-time Monitoring
 ```
 
 </div>
@@ -198,31 +174,6 @@ mindmap
 </div>
 
 > **"Data is the new oil, but insights are the refined fuel that drives business success."**
-
-### <div align="center">**My Approach**</div>
-
-```python
-def data_analysis_workflow(raw_data):
-    """
-    A systematic approach to extracting value from data
-    """
-    # Phase 1: Understanding
-    business_context = understand_problem(raw_data)
-    
-    # Phase 2: Preparation
-    clean_data = preprocess_and_clean(raw_data)
-    
-    # Phase 3: Analysis
-    insights = perform_advanced_analysis(clean_data)
-    
-    # Phase 4: Visualization
-    dashboards = create_interactive_visualizations(insights)
-    
-    # Phase 5: Communication
-    recommendations = translate_to_business_value(dashboards)
-    
-    return recommendations
-```
 
 <div align="center">
 
