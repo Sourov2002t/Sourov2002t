@@ -52,55 +52,85 @@ I'm a **Computer Science Engineering student** at **Chandigarh University**, pas
 
 ---
 
-## <div align="center">📊 <span style="color: #4CAF50; font-weight: bold; font-size: 24px;">Experience Overview</span> 📊</div>
+## <div align="center">📊 <span style="color: #4CAF50; font-weight: bold; font-size: 24px;">GitHub Analytics</span> 📊</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourov2002t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourov2002t&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourov2002t&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## <div align="center">💻 <span style="color: #FF9800; font-weight: bold; font-size: 24px;">My Tech Stack</span> 💻</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourov2002t&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" alt="Language Distribution" width="400"/>
+</div>
+
+### <div align="center">**Languages & Tools from My Repositories**</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,r,cpp,java,javascript" alt="Languages" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,opencv" alt="Data Science" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,vscode,git,github,jupyter,anaconda" alt="Tools" />
+</div>
+
+---
+
+## <div align="center">🏆 <span style="color: #FFD700; font-weight: bold; font-size: 24px;">GitHub Trophies</span> 🏆</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sourov2002t&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## <div align="center">📈 <span style="color: #00E676; font-weight: bold; font-size: 24px;">Repository Activity</span> 📈</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourov2002t&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## <div align="center">🔥 <span style="color: #FF5722; font-weight: bold; font-size: 24px;">Featured Projects</span> 🔥</div>
+
+<div align="center">
+
+[![IPL Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Sourov2002t&repo=IPL-Analytics-Dashboard&theme=tokyonight&hide_border=true)](https://github.com/Sourov2002t/IPL-Analytics-Dashboard)
+[![Heart Disease Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Sourov2002t&repo=Heart-Disease-Prediction&theme=tokyonight&hide_border=true)](https://github.com/Sourov2002t/Heart-Disease-Prediction)
+
+[![Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Sourov2002t&repo=Sales-Performance-Dashboard&theme=tokyonight&hide_border=true)](https://github.com/Sourov2002t/Sales-Performance-Dashboard)
+[![Data Processing](https://github-readme-stats.vercel.app/api/pin/?username=Sourov2002t&repo=Data-Processing-Automation&theme=tokyonight&hide_border=true)](https://github.com/Sourov2002t/Data-Processing-Automation)
+
+</div>
+
+---
+
+## <div align="center">💡 <span style="color: #9C27B0; font-weight: bold; font-size: 24px;">Core Competencies</span> 💡</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 
-### <span style="color: #8E24AA; font-weight: bold;">Core Skills from CV:</span>
+### <span style="color: #8E24AA; font-weight: bold;">Data Analysis & Visualization:</span>
 - 🔧 **Data Cleaning & Transformation** - SQL, Excel, Python (Pandas, NumPy)
 - 📈 **Data Visualization** - Power BI, Advanced DAX Functions  
 - 🤖 **Machine Learning** - Python, Scikit-learn, 96% accuracy models
 - 📊 **Statistical Analysis** - EDA, Hypothesis Testing, Regression
 - 🎯 **Business Intelligence** - KPI Dashboards, Data Storytelling
 
-### <span style="color: #FF6F00; font-weight: bold;">Key Projects Experience:</span>
+### <span style="color: #FF6F00; font-weight: bold;">Project Highlights:</span>
 - 🏏 **IPL Analytics** - Power BI framework with interactive dashboards
 - ❤️ **Heart Disease Prediction** - ML model with 96% accuracy
 - 📈 **Sales Performance Dashboard** - SQL + Power BI analytics
 - 🧹 **Data Processing** - Automated Python workflows for large datasets
-
----
-
-## <div align="center">💻 <span style="color: #FF9800; font-weight: bold; font-size: 24px;">Languages Used Across Projects</span> 💻</div>
-
-<div align="center">
-
-### **📊 IPL Analytics Dashboard**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### **❤️ Heart Disease Prediction Model**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-
-### **📈 Sales Performance Dashboard**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### **🧹 Data Processing & Automation**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-</div>
 
 ---
 
@@ -129,5 +159,11 @@ I'm actively seeking **Data Analyst internship opportunities** and open to discu
 <div align="center">
   
 **<span style="color: #00D4FF;">✨ "Detail-oriented analyst transforming raw data into actionable business insights" ✨</span>**
-  
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
