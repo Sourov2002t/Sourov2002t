@@ -1,152 +1,305 @@
 # <div align="center">Hi there! 👋 I'm <span style="color: #00D4FF;">Sourov Kumar Nandi</span></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Computer+Science+Student;Research+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+ML+Practitioner;Transforming+Data+into+Insights;Computer+Science+Engineer;Research+%26+Innovation+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/sourov-kumar-nandi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sourovnandi11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="tel:+919779235468"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
   <img src="https://komarev.com/ghpvc/?username=Sourov2002t&color=blue&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
 
-## <div align="center">🚀 <span style="color: #FF6B6B; font-weight: bold; font-size: 24px;">About Me</span> 🚀</div>
+## <div align="center">🚀 <span style="color: #FF6B6B; font-weight: bold; font-size: 24px;">Professional Summary</span> 🚀</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science" width="400"/>
 </div>
 
-I'm a **Computer Science Engineering student** at **Chandigarh University**, passionate about transforming raw data into meaningful insights through statistical analysis and visualization.
+**Computer Science Engineering Student** at **Chandigarh University** with a proven track record in data analytics, machine learning, and business intelligence. Specialized in transforming complex datasets into actionable insights through advanced statistical modeling and interactive visualizations.
 
-- 🎓 **Student** at Chandigarh University (2022-2026)
-- 📊 **Experience:** Data analysis, cleaning, and visualization projects
-- 🔍 **Research:** Published papers in international conferences  
-- 💼 **Seeking:** Data Analyst internship opportunities
-- ⚡ **Goal:** Excel in data science and business intelligence
+<div align="center">
+
+| 🎓 Education | 📊 Expertise | 🔬 Research | 💼 Career Goal |
+|:---:|:---:|:---:|:---:|
+| Chandigarh University<br>(2022-2026) | Data Analysis<br>ML & Visualization | Published International<br>Research Papers | Data Analyst<br>Internship |
+
+</div>
+
+### <div align="center">**Why Work With Me?**</div>
+
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Sourov Kumar Nandi"
+        self.role = "Aspiring Data Analyst"
+        self.strengths = [
+            "Data-driven decision making",
+            "Advanced statistical modeling",
+            "Interactive dashboard creation",
+            "End-to-end ML pipeline development"
+        ]
+        self.mindset = "Continuous learning and innovation"
+    
+    def solve_business_problems(self, data):
+        insights = self.analyze(data)
+        visualizations = self.create_dashboards(insights)
+        return self.deliver_actionable_recommendations(visualizations)
+```
 
 ---
 
-## <div align="center">🛠️ <span style="color: #9C27B0; font-weight: bold; font-size: 24px;">Skills & Tools</span> 🛠️</div>
+## <div align="center">🛠️ <span style="color: #9C27B0; font-weight: bold; font-size: 24px;">Technical Arsenal</span> 🛠️</div>
 
-**<span style="color: #FF5722; font-weight: bold;">Programming & Database:</span>**
-<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,javascript,mysql,postgresql,mongodb" alt="Languages" />
+</div>
+
+### <div align="center">**Core Technologies**</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+#### 📊 **Data Analysis & Processing**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**<span style="color: #2196F3; font-weight: bold;">Data Analysis:</span>**
-<br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**<span style="color: #00BCD4; font-weight: bold;">Visualization:</span>**
-<br>
+#### 🗄️ **Database Management**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+#### 🤖 **Machine Learning & AI**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+#### 📈 **Visualization & BI Tools**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge)
 
----
+</td>
+</tr>
+</table>
 
-## <div align="center">📊 <span style="color: #4CAF50; font-weight: bold; font-size: 24px;">GitHub Analytics</span> 📊</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourov2002t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourov2002t&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
+### <div align="center">**Development Environment**</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourov2002t&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter,git,github,anaconda,excel" alt="Tools" />
 </div>
 
 ---
 
-## <div align="center">💻 <span style="color: #FF9800; font-weight: bold; font-size: 24px;">My Tech Stack</span> 💻</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourov2002t&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" alt="Language Distribution" width="400"/>
-</div>
-
-### <div align="center">**Languages & Tools from My Repositories**</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,r,cpp,java,javascript" alt="Languages" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,opencv" alt="Data Science" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,vscode,git,github,jupyter,anaconda" alt="Tools" />
-</div>
-
----
-
-## <div align="center">🏆 <span style="color: #FFD700; font-weight: bold; font-size: 24px;">GitHub Trophies</span> 🏆</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sourov2002t&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-## <div align="center">📈 <span style="color: #00E676; font-weight: bold; font-size: 24px;">Repository Activity</span> 📈</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourov2002t&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## <div align="center">🔥 <span style="color: #FF5722; font-weight: bold; font-size: 24px;">Featured Projects</span> 🔥</div>
-
-<div align="center">
-
-[![IPL Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Sourov2002t&repo=IPL-Analytics-Dashboard&theme=tokyonight&hide_border=true)](https://github.com/Sourov2002t/IPL-Analytics-Dashboard)
-[![Heart Disease Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Sourov2002t&repo=Heart-Disease-Prediction&theme=tokyonight&hide_border=true)](https://github.com/Sourov2002t/Heart-Disease-Prediction)
-
-[![Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Sourov2002t&repo=Sales-Performance-Dashboard&theme=tokyonight&hide_border=true)](https://github.com/Sourov2002t/Sales-Performance-Dashboard)
-[![Data Processing](https://github-readme-stats.vercel.app/api/pin/?username=Sourov2002t&repo=Data-Processing-Automation&theme=tokyonight&hide_border=true)](https://github.com/Sourov2002t/Data-Processing-Automation)
-
-</div>
-
----
-
-## <div align="center">💡 <span style="color: #9C27B0; font-weight: bold; font-size: 24px;">Core Competencies</span> 💡</div>
+## <div align="center">💡 <span style="color: #9C27B0; font-weight: bold; font-size: 24px;">Professional Competencies</span> 💡</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 
-### <span style="color: #8E24AA; font-weight: bold;">Data Analysis & Visualization:</span>
-- 🔧 **Data Cleaning & Transformation** - SQL, Excel, Python (Pandas, NumPy)
-- 📈 **Data Visualization** - Power BI, Advanced DAX Functions  
-- 🤖 **Machine Learning** - Python, Scikit-learn, 96% accuracy models
-- 📊 **Statistical Analysis** - EDA, Hypothesis Testing, Regression
-- 🎯 **Business Intelligence** - KPI Dashboards, Data Storytelling
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
-### <span style="color: #FF6F00; font-weight: bold;">Project Highlights:</span>
-- 🏏 **IPL Analytics** - Power BI framework with interactive dashboards
-- ❤️ **Heart Disease Prediction** - ML model with 96% accuracy
-- 📈 **Sales Performance Dashboard** - SQL + Power BI analytics
-- 🧹 **Data Processing** - Automated Python workflows for large datasets
+### 🔍 **Data Analysis**
+- Advanced Statistical Analysis
+- Exploratory Data Analysis (EDA)
+- Hypothesis Testing
+- A/B Testing & Experimentation
+- Time Series Analysis
+- Regression Modeling
+
+</td>
+<td valign="top" width="33%">
+
+### 🎨 **Data Visualization**
+- Interactive Dashboards
+- Advanced DAX Functions
+- KPI Metric Design
+- Data Storytelling
+- Executive Reports
+- Real-time Analytics
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 **Machine Learning**
+- Predictive Modeling (96% Accuracy)
+- Feature Engineering
+- Model Optimization
+- Cross-validation
+- Ensemble Methods
+- Algorithm Selection
+
+</td>
+</tr>
+</table>
+
+### <div align="center">**Domain Expertise**</div>
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Data Analysis))
+    Business Intelligence
+      KPI Development
+      Performance Metrics
+      Strategic Insights
+    Data Engineering
+      ETL Pipelines
+      Data Cleaning
+      Automation
+    Analytics
+      Predictive Modeling
+      Statistical Testing
+      Trend Analysis
+    Visualization
+      Power BI Dashboards
+      Interactive Reports
+      Data Storytelling
+```
+
+</div>
 
 ---
 
-## <div align="center">📫 <span style="color: #E91E63; font-weight: bold; font-size: 24px;">Let's Connect</span> 📫</div>
+## <div align="center">🏆 <span style="color: #FFD700; font-weight: bold; font-size: 24px;">Key Achievements</span> 🏆</div>
+
+<div align="center">
+
+| Achievement | Impact | Technology Stack |
+|:---|:---:|---:|
+| 🏏 **IPL Analytics Framework** | Interactive insights for cricket analytics | Power BI, SQL, Python |
+| ❤️ **Heart Disease Prediction Model** | 96% accuracy in early detection | Python, Scikit-learn, ML |
+| 📊 **Sales Performance System** | Real-time business intelligence | Power BI, SQL, DAX |
+| 🔄 **Data Processing Automation** | 80% reduction in processing time | Python, Pandas, Automation |
+| 📝 **Research Publications** | International conference papers | Statistical Analysis, Research |
+
+</div>
+
+---
+
+## <div align="center">🎯 <span style="color: #4CAF50; font-weight: bold; font-size: 24px;">Professional Philosophy</span> 🎯</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+</div>
+
+> **"Data is the new oil, but insights are the refined fuel that drives business success."**
+
+### <div align="center">**My Approach**</div>
+
+```python
+def data_analysis_workflow(raw_data):
+    """
+    A systematic approach to extracting value from data
+    """
+    # Phase 1: Understanding
+    business_context = understand_problem(raw_data)
+    
+    # Phase 2: Preparation
+    clean_data = preprocess_and_clean(raw_data)
+    
+    # Phase 3: Analysis
+    insights = perform_advanced_analysis(clean_data)
+    
+    # Phase 4: Visualization
+    dashboards = create_interactive_visualizations(insights)
+    
+    # Phase 5: Communication
+    recommendations = translate_to_business_value(dashboards)
+    
+    return recommendations
+```
+
+<div align="center">
+
+**Core Values:** Precision • Innovation • Collaboration • Continuous Learning
+
+</div>
+
+---
+
+## <div align="center">📚 <span style="color: #2196F3; font-weight: bold; font-size: 24px;">Current Focus</span> 📚</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### 🌱 **Learning Path**
+- Advanced Machine Learning Algorithms
+- Deep Learning with TensorFlow
+- Cloud Computing (AWS, Azure)
+- Big Data Technologies (Spark, Hadoop)
+- MLOps and Model Deployment
+- Advanced Time Series Forecasting
+
+</td>
+<td valign="top" width="50%">
+
+### 🎯 **Career Objectives**
+- Secure Data Analyst Internship
+- Contribute to Open Source Projects
+- Build Portfolio of Real-world Projects
+- Obtain Industry Certifications
+- Network with Industry Professionals
+- Publish More Research Papers
+
+</td>
+</tr>
+</table>
+
+---
+
+## <div align="center">📫 <span style="color: #E91E63; font-weight: bold; font-size: 24px;">Let's Collaborate</span> 📫</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 </div>
 
-I'm actively seeking **Data Analyst internship opportunities** and open to discussing data science projects.
+I'm actively seeking **Data Analyst internship opportunities** and collaborative projects. Whether you're looking for someone to analyze your data, build predictive models, or create insightful dashboards, let's connect!
 
 <div align="center">
-  
-📧 **Email:** [sourovnandi11@gmail.com](mailto:sourovnandi11@gmail.com) | 📱 **Phone:** +91 9779235468
+
+### **📬 Contact Information**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/gmail.png" width="30"/>
 <br>
-💼 **LinkedIn:** [linkedin.com/in/sourov-kumar-nandi](https://linkedin.com/in/sourov-kumar-nandi)
+<strong>Email</strong>
+<br>
+<a href="mailto:sourovnandi11@gmail.com">sourovnandi11@gmail.com</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>
+<br>
+<strong>LinkedIn</strong>
+<br>
+<a href="https://linkedin.com/in/sourov-kumar-nandi">Connect with me</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/phone.png" width="30"/>
+<br>
+<strong>Phone</strong>
+<br>
+<a href="tel:+919779235468">+91 9779235468</a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -158,7 +311,11 @@ I'm actively seeking **Data Analyst internship opportunities** and open to discu
 
 <div align="center">
   
-**<span style="color: #00D4FF;">✨ "Detail-oriented analyst transforming raw data into actionable business insights" ✨</span>**
+**<span style="color: #00D4FF;">✨ "Transforming complexity into clarity, one dataset at a time" ✨</span>**
+
+<br><br>
+
+*Open to internship opportunities • Available for collaborative projects • Ready to make an impact*
 
 </div>
 
