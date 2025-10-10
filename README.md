@@ -7,7 +7,6 @@
 <div align="center">
   <a href="https://linkedin.com/in/sourov-kumar-nandi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sourovnandi11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="tel:+919779235468"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
   <img src="https://komarev.com/ghpvc/?username=Sourov2002t&color=blue&style=for-the-badge" alt="Profile views" />
 </div>
 
@@ -122,7 +121,7 @@
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#FF6B6B','primaryTextColor':'#fff','primaryBorderColor':'#00D4FF','lineColor':'#00D4FF','secondaryColor':'#9C27B0','tertiaryColor':'#4CAF50','background':'#1a1a2e','mainBkg':'#16213e','secondBkg':'#0f3460','tertiaryBorderColor':'#FF6B6B','clusterBkg':'#16213e','clusterBorder':'#00D4FF','titleColor':'#00D4FF','edgeLabelBackground':'#1a1a2e','nodeTextColor':'#ffffff'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#3498db','primaryTextColor':'#2c3e50','primaryBorderColor':'#2980b9','lineColor':'#34495e','secondaryColor':'#9b59b6','tertiaryColor':'#27ae60','background':'#ecf0f1','mainBkg':'#ffffff','secondBkg':'#bdc3c7','tertiaryBorderColor':'#e74c3c','clusterBkg':'#f8f9fa','clusterBorder':'#3498db','titleColor':'#2c3e50','edgeLabelBackground':'#ffffff','nodeTextColor':'#2c3e50'}}}%%
 mindmap
   root((Data Analysis<br/>Ecosystem))
     Business Intelligence
@@ -241,13 +240,6 @@ I'm actively seeking **Data Analyst internship opportunities** and collaborative
 <strong>LinkedIn</strong>
 <br>
 <a href="https://linkedin.com/in/sourov-kumar-nandi">Connect with me</a>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/48/000000/phone.png" width="30"/>
-<br>
-<strong>Phone</strong>
-<br>
-<a href="tel:+919779235468">+91 9779235468</a>
 </td>
 </tr>
 </table>
