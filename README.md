@@ -5,13 +5,16 @@
 
 <p align="left">
   <a href="https://sourov-nandi.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sourov--nandi.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sourov-kumar-nandi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://orcid.org/0009-0007-7266-6273" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-0009--0007--7266--6273-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Profile" />
+    <img src="https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
   <a href="https://github.com/sourov-nandi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-sourov--nandi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -21,17 +24,17 @@
 - 🎓 **Academic Status**: Computer Science & Engineering (CSE) Student focused on cutting-edge AI and Data Systems.
 - 📚 **Research Publications**: 3 Peer-Reviewed Papers in **IEEE** conferences and **Taylor & Francis** publications.
 - 🎯 **Core Expertise**: Explainable AI (Grad-SHAP), Graph Neural Networks (GNNs), Time-Series Forecasting, PyTorch, SQL Data Engineering, and AWS Cloud Solutions.
-- 🌐 **Links**: Live Portfolio at [sourov-nandi.netlify.app](https://sourov-nandi.netlify.app/) | Research Publications on [ORCID (0009-0007-7266-6273)](https://orcid.org/0009-0007-7266-6273).
+- 🌐 **Quick Links**: [Portfolio](https://sourov-nandi.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/sourov-kumar-nandi/) | [ORCID Profile](https://orcid.org/0009-0007-7266-6273) | [GitHub Profile](https://github.com/sourov-nandi)
 
 ---
 
 ## 🔬 Peer-Reviewed Research Publications
 
-| Year | Paper Title & Authors | Venue / Publisher | DOI / Access |
+| Year | Paper Title & Authors | Venue / Publisher | Action / DOI |
 | :---: | :--- | :---: | :---: |
-| **2025** | **Human Activity Recognition in Real-Time: An Accessible Framework for Learning and Application**<br><sub>Nandi, S. K. et al.</sub> | *Innovations in Computing*, Taylor & Francis | [![DOI](https://img.shields.io/badge/DOI-10.1201%2F9781003652755--48-blue?style=flat-square)](https://doi.org/10.1201/9781003652755-48) |
-| **2025** | **A Novel Framework for End-to-End Encrypted Peer-to-Peer Communication**<br><sub>Nandi, S. K. et al.</sub> | *IEEE QPAIN 2025* | [![DOI](https://img.shields.io/badge/DOI-10.1109%2Fqpain66474.2025.11171978-blue?style=flat-square)](https://doi.org/10.1109/qpain66474.2025.11171978) |
-| **2024** | **Heart Health Forecasting with Machine Learning Techniques**<br><sub>Nandi, S. K. et al.</sub> | *IEEE ISCS 2024* | [![DOI](https://img.shields.io/badge/DOI-10.1109%2Fiscs61804.2024.10581160-blue?style=flat-square)](https://doi.org/10.1109/iscs61804.2024.10581160) |
+| **2025** | **Human Activity Recognition in Real-Time: An Accessible Framework for Learning and Application**<br><sub>Nandi, S. K. et al.</sub> | *Innovations in Computing*, Taylor & Francis | [![View Paper](https://img.shields.io/badge/Paper-View_DOI-blue?style=flat-square&logo=doi)](https://doi.org/10.1201/9781003652755-48) |
+| **2025** | **A Novel Framework for End-to-End Encrypted Peer-to-Peer Communication**<br><sub>Nandi, S. K. et al.</sub> | *IEEE QPAIN 2025* | [![View Paper](https://img.shields.io/badge/Paper-View_DOI-blue?style=flat-square&logo=doi)](https://doi.org/10.1109/qpain66474.2025.11171978) |
+| **2024** | **Heart Health Forecasting with Machine Learning Techniques**<br><sub>Nandi, S. K. et al.</sub> | *IEEE ISCS 2024* | [![View Paper](https://img.shields.io/badge/Paper-View_DOI-blue?style=flat-square&logo=doi)](https://doi.org/10.1109/iscs61804.2024.10581160) |
 
 ---
 
@@ -96,7 +99,8 @@
 
 ---
 
-## 📬 Connect With Me
-- 🌐 **Portfolio Website**: [sourov-nandi.netlify.app](https://sourov-nandi.netlify.app/)
-- 🔬 **ORCID ID**: [orcid.org/0009-0007-7266-6273](https://orcid.org/0009-0007-7266-6273)
-- 💼 **LinkedIn**: [Sourov Kumar Nandi](https://linkedin.com)
+## 📬 Connect & Direct Access
+- 🌐 **[Portfolio](https://sourov-nandi.netlify.app/)** — Interactive web showcase & live project demos.
+- 💼 **[LinkedIn](https://www.linkedin.com/in/sourov-kumar-nandi/)** — Professional network & research updates.
+- 🔬 **[ORCID Profile](https://orcid.org/0009-0007-7266-6273)** — Academic peer-reviewed publication record.
+- 🐙 **[GitHub Profile](https://github.com/sourov-nandi)** — Open-source code repositories & AI implementations.
