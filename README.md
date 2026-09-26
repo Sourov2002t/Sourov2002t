@@ -172,18 +172,51 @@
 - 🥇 **Deloitte Australia** — Data Analytics & Business Intelligence Simulation (Forage)
 - 🥇 **NPTEL** — Introduction to Machine Learning (IIT Madras Certification)
 
----
+## ⚡ Most Used Programming Languages & Core Tech Stack
 
-## 📊 GitHub Activity & Analytics
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sourov2002t&layout=compact&theme=tokyonight&hide=jupyter%20notebook,solidity&card_width=600" alt="Most Used Languages" width="65%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sourov2002t&show_icons=true&theme=tokyonight&count_private=true" alt="Sourov Nandi GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sourov2002t&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourov2002t&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
+<table align="center" width="92%">
+  <thead>
+    <tr style="background: rgba(0, 242, 254, 0.12);">
+      <th align="left">Language / Technology</th>
+      <th align="left">Primary Engineering Application</th>
+      <th align="center">Proficiency & Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🐍 Python</b></td>
+      <td>Artificial Intelligence, PyTorch, GNNs, Grad-SHAP (XAI), Data Science</td>
+      <td><img src="https://geps.dev/progress/92?dangerColor=00f2fe&warningColor=00c7b7&successColor=00f2fe" alt="Python 92%" /></td>
+    </tr>
+    <tr>
+      <td><b>⚡ C++ / C</b></td>
+      <td>Object-Oriented Systems, High-Performance Computing, DSA</td>
+      <td><img src="https://geps.dev/progress/85?dangerColor=00f2fe&warningColor=00c7b7&successColor=00f2fe" alt="C++ 85%" /></td>
+    </tr>
+    <tr>
+      <td><b>🛢️ SQL</b></td>
+      <td>Data Pipeline Engineering, PostgreSQL, Window Functions, CTEs</td>
+      <td><img src="https://geps.dev/progress/88?dangerColor=00f2fe&warningColor=00c7b7&successColor=00f2fe" alt="SQL 88%" /></td>
+    </tr>
+    <tr>
+      <td><b>☕ Java</b></td>
+      <td>Core System Software & Enterprise Backend Applications</td>
+      <td><img src="https://geps.dev/progress/80?dangerColor=00f2fe&warningColor=00c7b7&successColor=00f2fe" alt="Java 80%" /></td>
+    </tr>
+    <tr>
+      <td><b>🌐 JavaScript</b></td>
+      <td>Peer-to-Peer Encrypted Web Protocols & Interactive Interfaces</td>
+      <td><img src="https://geps.dev/progress/82?dangerColor=00f2fe&warningColor=00c7b7&successColor=00f2fe" alt="JS 82%" /></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
